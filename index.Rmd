@@ -9,12 +9,12 @@ bibliography: [book.bib, packages.bib]
 toc-title: "Contents"
 biblio-style: apalike
 link-citations: yes
-description: "Materials for the three day camera trap data management and analysis course"
+description: "Materials for the one day 'Primer to camera trap data management and analysis' course"
 ---
  
 # Preparing for the course
 
-In order to prepare for the Columbia Mountain Institute's  "An Introduction to Camera Trap Data Management and Analysis in R" course. You must:
+In order to prepare for the one day "Primer to camera trap data management and analysis" course. You must:
 
 - Install R
 - Install R Studio

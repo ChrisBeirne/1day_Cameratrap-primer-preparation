@@ -1,0 +1,13 @@
+preparing-for-the-course
+install-r
+install-rstudio
+install-the-required-packages
+cran-packages
+other-packages
+create-an-r-project
+download-the-data-files
+the-example-datasets
+example_data
+your_data
+example_covariates
+practise-before-the-course
